@@ -1,4 +1,4 @@
-### `<a href="https://ecomzy-store.vercel.app/" > Live </a>`
+<a href="https://ecomzy-store.vercel.app/" > <h3>Live</h3></a>
 ### `npm start`
 
 Runs the app in the development mode.\
