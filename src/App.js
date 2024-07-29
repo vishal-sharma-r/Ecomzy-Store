@@ -3,6 +3,7 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import Cart from "./pages/Cart";
 import Home from "./pages/Home";
+// APP MAIN PAGE
 function App() {
   return (
     <div>
